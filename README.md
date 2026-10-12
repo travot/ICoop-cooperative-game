@@ -58,7 +58,7 @@ Design choices worth noting:
 
 ## Build
 
-The code compiles against the course's game engine (package `ch.epfl.cs107.play`) and expects its resources (sprites, behaviour maps, fonts and dialogues under `resources/`), neither of which is included here. With them in place, the project compiles with Java 21 and starts from `ch.epfl.cs107.Play`. No build file is included, because the project was built inside the course's own setup.
+The code compiles against the course's game engine (package `ch.epfl.cs107.play`) and expects its resources (sprites, behaviour maps, fonts and dialogues under `resources/`), neither of which is included here. With them in place, the project compiles with Java 21 and starts from `ch.epfl.cs107.Play`. No build file is included, because the project was built inside the course's own setup. Code comments and Javadoc are in French (course language).
 
 ## Authors
 
