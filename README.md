@@ -58,7 +58,7 @@ Design choices worth noting:
 
 ## Build
 
-The code compiles against the course's game engine (package `ch.epfl.cs107.play`) and expects its resources (sprites, behaviour maps, fonts and dialogues under `resources/`), neither of which is included here. With them in place, the project is a standard Maven build for Java 21 and starts from `ch.epfl.cs107.Play`.
+The code compiles against the course's game engine (package `ch.epfl.cs107.play`) and expects its resources (sprites, behaviour maps, fonts and dialogues under `resources/`), neither of which is included here. With them in place, the project compiles with Java 21 and starts from `ch.epfl.cs107.Play`. No build file is included, because the project was built inside the course's own setup.
 
 ## Authors
 
